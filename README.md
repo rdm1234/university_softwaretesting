@@ -3,13 +3,13 @@
 https://simpletaskmanager.rdmatrix.tk/
 
 ## Документы
-[Спецификация и схемы](https://github.com/rdm1234/university_softwaretesting/Documentation.docx)
+[Спецификация и схемы](Documentation.docx)
 
-[Диаграмма вариантов использования](https://github.com/rdm1234/university_softwaretesting/use-case.png)
+[Диаграмма вариантов использования](use-case.png)
 
-[Диаграмма классов](https://github.com/rdm1234/university_softwaretesting/uml-classes.png)
+[Диаграмма классов](uml-classes.png)
 
-[Прототип приложения](https://github.com/rdm1234/university_softwaretesting/prototype.xd)
+[Прототип приложения](prototype.xd)
 
 ## Участники
 - Файзуллаев С. Т.
